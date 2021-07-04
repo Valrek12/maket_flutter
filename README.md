@@ -11,5 +11,7 @@
 4) Нарисовать макет чата.
 
 
-![alt text](screenshots/Screenshot_168.png "Вот что должно получиться")
+![alt text](screenshots/Screenshot_168.png "Вот что должно получиться") 
+![alt text](screenshots/Screenshot_2.png "Вот что должно получиться")
+![alt text](screenshots/Screenshot_1.png "Вот что должно получиться")
 
